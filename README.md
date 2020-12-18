@@ -6,7 +6,6 @@
 In the project directory, run:
 ### `npm i`
 it will install required packages.
-In the project directory, run:
 ### `npm start`
 Runs the app in the development mode.
 
