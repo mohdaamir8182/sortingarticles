@@ -1,11 +1,13 @@
-# Getting Started with Create React App
+# Getting Started with Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How to run the project
+
 In the project directory, run:
 ### `npm i`
 then it will install required packages.
+### `npm start`
+Runs the app in the development mode.
 
 ## Packages
 
@@ -15,6 +17,4 @@ Material ui is used for Ui (icons , buttons, containers etc).
 Material ui is used to format date (YYYY/MM/DD).
 
 
-### `npm start`
 
-Runs the app in the development mode.
