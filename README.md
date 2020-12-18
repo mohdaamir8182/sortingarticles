@@ -1,11 +1,12 @@
-# Getting Started with Project
+# Sorting Articles Project
 
 
 ## How to run the project
 
 In the project directory, run:
 ### `npm i`
-then it will install required packages.
+it will install required packages.
+In the project directory, run:
 ### `npm start`
 Runs the app in the development mode.
 
