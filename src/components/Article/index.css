@@ -1,0 +1,27 @@
+.maincontainer {
+    margin-top: '20';
+}
+.articlebody {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: row;
+}
+
+.upvotes {
+    display: flex;
+    flex-direction: row;
+}
+
+.date {
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+
+.space {
+    margin-right: 10px;
+}
